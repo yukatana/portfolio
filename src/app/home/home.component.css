@@ -1,0 +1,21 @@
+body {
+    background-color: #b2d8d8;
+}
+
+.navbar {
+    background-color: #008080;
+}
+
+.row > div {
+    height: 500px;
+}
+
+#headshot {
+    width: 70%;
+    max-height: auto;
+    margin: 40px
+}
+
+#card {
+    vertical-align: middle;
+}
